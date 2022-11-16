@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberCulator3000", "SimpleCalculator\CyberCulator3000.csproj", "{2EECB54B-71C1-4BF3-A033-4B025A694FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EECB54B-71C1-4BF3-A033-4B025A694FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EECB54B-71C1-4BF3-A033-4B025A694FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EECB54B-71C1-4BF3-A033-4B025A694FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EECB54B-71C1-4BF3-A033-4B025A694FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85269744-EC0A-4857-B917-16D8A2A7DE98}
+	EndGlobalSection
+EndGlobal
